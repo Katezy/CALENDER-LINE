@@ -34,13 +34,6 @@ const LINE_TOKEN = 'ใส่ LINE Channel Access Token ของคุณ';
 const LINE_USER_ID = 'ใส่ LINE User ID สำหรับส่งข้อความแบบ Push';
 const CALENDAR_ID = 'ใส่ Google Calendar ID หรือใช้ "primary"';
 
-
-```js
-// === CONFIG ===
-const LINE_TOKEN = 'ใส่ LINE Channel Access Token ของคุณ';
-const LINE_USER_ID = 'ใส่ LINE User ID สำหรับส่งข้อความแบบ Push';
-const CALENDAR_ID = 'ใส่ Google Calendar ID หรือใช้ "primary"';
-
 // === MEDICATION STORAGE ===
 // ใช้ PropertiesService เก็บข้อมูลยาแทน localStorage
 function getMedications() {
